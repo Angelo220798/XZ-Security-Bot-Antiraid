@@ -1,0 +1,17 @@
+{
+  "name": "xz-security-bot-antiraid",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aoi.js": "^5.1.2",
+    "discord-backup": "^3.2.1",
+    "discord.js": "^13.8.0"
+  },
+  "description": ""
+}
